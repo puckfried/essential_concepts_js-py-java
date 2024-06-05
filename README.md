@@ -56,9 +56,9 @@
     ```
 
 ## comparison logic operators
-- **Explanation**: Used to compare values and return true or false. 
-    --> The symbol && is used for connecting two booloean values with AND
-    --> The symbol || is used for connecting two booloean values with OR
+- **Explanation**: Used to compare values and return true or false. <br>
+    --> The symbol && is used for connecting two boolean values with logical AND <br>
+    --> The symbol || is used for connecting two boolean values with logical OR
 - **Examples**:
   - **JavaScript**:
     ```javascript
