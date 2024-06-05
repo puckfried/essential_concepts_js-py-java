@@ -56,7 +56,9 @@
     ```
 
 ## comparison logic operators
-- **Explanation**: Used to compare values and return true or false.
+- **Explanation**: Used to compare values and return true or false. 
+    --> The symbol && is used for connecting two booloean values with AND
+    --> The symbol || is used for connecting two booloean values with OR
 - **Examples**:
   - **JavaScript**:
     ```javascript
@@ -66,7 +68,7 @@
     x < 10
     x >= 10
     x <= 10
-    x > 5 && x < 10
+    x > 5 && x < 10 
     x == 5 || x == 10
     ```
   - **Python**:
